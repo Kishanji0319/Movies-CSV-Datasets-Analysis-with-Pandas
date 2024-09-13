@@ -1,6 +1,6 @@
 Analyzing a movies dataset with pandas is a great way to practice data manipulation and visualization skills. 
 
-Here’s a detailed description of how you can approach this analysis:
+Here’s a detailed description of how i approach this analysis:
 
 <h2>1. Data Loading and Initial Exploration</h2>
    <h3>•Importing Libraries: </h3>Start by importing necessary libraries such as pandas and numpy.
